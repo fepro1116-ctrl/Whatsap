@@ -1,0 +1,13 @@
+{
+  "name": "whatsap",
+  "version": "1.0.0",
+  "description": "Chat grupal instantáneo con emojis, stickers e imágenes",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "cd server && npm install && npm start",
+    "dev": "cd server && npm install && npm start"
+  },
+  "keywords": ["chat", "websocket", "realtime"],
+  "author": "",
+  "license": "MIT"
+}
